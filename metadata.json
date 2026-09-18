@@ -1,0 +1,8 @@
+{
+  "name": "Digi Products Hub — AI Tools",
+  "description": "One AI Platform. Unlimited Possibilities. All-in-one AI productivity, content, marketing, automation, document, sales, and AEO/GEO AI search optimization SaaS platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
